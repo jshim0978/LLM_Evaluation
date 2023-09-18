@@ -1,7 +1,5 @@
 # Project Title : Image Poisoning using Color Change 
  <br>
- <br>
- <br>
  
 # Project Introduction
 
