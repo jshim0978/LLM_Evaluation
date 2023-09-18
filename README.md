@@ -41,14 +41,12 @@ val_size = 5000
 train_size = len(dataset) - val_size
 ```
  <br>
+
+ 32*32 color images in 10 classes, 6000 images per class.
  
-### Training set : 45,000
- <br>
- 
-### Validation set : 5,000
- <br>
- 
-### Test set : 10,000
+#### Training set : 45,000 images
+#### Validation set : 5,000 images
+#### Test set : 10,000 images
  <br>
  <br>
  
