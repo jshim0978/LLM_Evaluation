@@ -4,24 +4,17 @@
  <br>
  
 # Project Introduction
- <br>
- <br>
- 
+
 ### Objective : Developing a method to trigger images with stealthity, causing a detection model to make wrong predictions for the given triggered image using only changes in color(RGB values)
- <br>
  <br>
  
 ### Motivation : As the use of object detection models arise, the trustworthiness of models arise as well. We propose a method that can potentially be critical to detection tasks, image poisoning, using only changes in color(RGB values) to achieve this goal. By discovering more poisoning methods, we hope to fortify the defences of detection models in the future.
- <br>
- <br>
  <br>
  
 # Dataset Description : CIFAR 10 
 <br>
 
 ### Data Preparation
- <br>
- <br>
  
 ```python
 dataset = CIFAR10(root='data/', download=True, transform=ToTensor())
@@ -37,20 +30,14 @@ val_size = 5000
 train_size = len(dataset) - val_size
 ```
  <br>
- <br>
  
 ### Training set : 45,000
- <br>
  <br>
  
 ### Validation set : 5,000
  <br>
- <br>
  
 ### Test set : 10,000
- <br>
- <br>
- <br>
  <br>
  <br>
  
