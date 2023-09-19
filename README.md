@@ -21,34 +21,14 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class.
 
 Here are the classes in the dataset, as well as 10 random images from each:
-
 <div align="center">
   <div style="display: flex;">
-  <img width="386" alt="image" src="https://github.com/jshim0978/LLM_Evaluation/assets/43781129/9bdd3272-2178-4bef-a612-4645e40cc5bb"> 
-  <img width="386" alt="image" src="https://github.com/jshim0978/LLM_Evaluation/assets/43781129/9bdd3272-2178-4bef-a612-4645e40cc5bb"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+   <p>asdf</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+      <p>asdf</p>
   </div>
 </div>
-<div  style="display: flex;" align="center" justify="space-even" width: 100%>
- <div>
-  <img width="386" alt="image" src="https://github.com/jshim0978/LLM_Evaluation/assets/43781129/9bdd3272-2178-4bef-a612-4645e40cc5bb"> 
- 
-   <p>tt</p>
- </div>
-  <div>
-  <img width="386" alt="image" src="https://github.com/jshim0978/LLM_Evaluation/assets/43781129/9bdd3272-2178-4bef-a612-4645e40cc5bb"> 
-   
-   <p>tt</p>
- </div>
-</div>
-
-<table>
-  <tr>
-    <td valign="top">
-  <img width="386" alt="image" src="https://github.com/jshim0978/LLM_Evaluation/assets/43781129/9bdd3272-2178-4bef-a612-4645e40cc5bb"> </td>
-    <td valign="top">
-  <img width="386" alt="image" src="https://github.com/jshim0978/LLM_Evaluation/assets/43781129/9bdd3272-2178-4bef-a612-4645e40cc5bb"> </td>
-  </tr>
-</table>
 
 The classes are completely mutually exclusive. There is no overlap between automobiles and trucks. "Automobile" includes sedans, SUVs, things of that sort. "Truck" includes only big trucks. Neither includes pickup trucks.
 
