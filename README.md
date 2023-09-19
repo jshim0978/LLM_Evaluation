@@ -24,7 +24,7 @@ Here are the classes in the dataset, as well as 10 random images from each:
 <div style="display: flex; flex-direction: row;" align="center" justify="space-even" width="100%">
 
  <div  align="center">
-  <img width="100%" alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/243ff241-64ab-4885-ba9e-885e4c179fd3"/>
+  <img width="66%" alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/243ff241-64ab-4885-ba9e-885e4c179fd3"/>
  </div>
 </div>
 
