@@ -23,13 +23,11 @@ The dataset is divided into five training batches and one test batch, each with 
 Here are the classes in the dataset, as well as 10 random images from each:
 <div align="center">
   <div style="display: flex;">
-    <img width="361" alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/dda18829-2a4c-46ac-9dfd-57051070934c">
-
+    <img width="361" alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/dda18829-2a4c-46ac-9dfd-57051070934c"/>
    <p>asdf</p>
      </div>
        <div style="display: flex;">
-    <img width="361" alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/243ff241-64ab-4885-ba9e-885e4c179fd3">
-
+    <img width="361" alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/243ff241-64ab-4885-ba9e-885e4c179fd3"/>
       <p>asdf</p>
   </div>
 </div>
