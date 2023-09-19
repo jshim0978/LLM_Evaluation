@@ -33,11 +33,11 @@ Here are the classes in the dataset, as well as 10 random images from each:
 </div>
 
 <table width="100%">
- <td>
+ <td align="center">
   <img alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/243ff241-64ab-4885-ba9e-885e4c179fd3"/>
   <p>asdf</p>
  </td>
- <td>
+ <td align="center">
   <img alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/243ff241-64ab-4885-ba9e-885e4c179fd3"/>
   <p>asdf</p>
  </td>
