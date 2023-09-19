@@ -24,12 +24,13 @@ Here are the classes in the dataset, as well as 10 random images from each:
 <p align="center" justify="space-even">
  <p>
   <img width="386" alt="image" src="https://github.com/jshim0978/LLM_Evaluation/assets/43781129/9bdd3272-2178-4bef-a612-4645e40cc5bb"> 
-  tt
  </p>
+ tt
   <p>
   <img width="386" alt="image" src="https://github.com/jshim0978/LLM_Evaluation/assets/43781129/9bdd3272-2178-4bef-a612-4645e40cc5bb"> 
-  tt
+
  </p>
+   tt
 </p>
 
 
