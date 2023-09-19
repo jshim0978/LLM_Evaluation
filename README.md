@@ -32,6 +32,17 @@ Here are the classes in the dataset, as well as 10 random images from each:
  </div>
 </div>
 
+<table width="100%">
+ <td>
+  <img alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/243ff241-64ab-4885-ba9e-885e4c179fd3"/>
+  <p>asdf</p>
+ </td>
+ <td>
+  <img alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/243ff241-64ab-4885-ba9e-885e4c179fd3"/>
+  <p>asdf</p>
+ </td>
+</table>
+
 
 The classes are completely mutually exclusive. There is no overlap between automobiles and trucks. "Automobile" includes sedans, SUVs, things of that sort. "Truck" includes only big trucks. Neither includes pickup trucks.
 
@@ -59,6 +70,3 @@ train_size = len(dataset) - val_size
 #### Validation set : 5,000 images
 #### Test set : 10,000 images
  <br>
- <br>
- 
-[Link to baseline paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Color_Backdoor_A_Robust_Poisoning_Attack_in_Color_Space_CVPR_2023_paper.pdf)
