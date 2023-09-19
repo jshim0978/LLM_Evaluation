@@ -22,26 +22,14 @@ The dataset is divided into five training batches and one test batch, each with 
 
 Here are the classes in the dataset, as well as 10 random images from each:
 <div style="display: flex; flex-direction: row;" align="center" justify="space-even" width="100%">
- <div  align="center">
-  <img width="30%" alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/dda18829-2a4c-46ac-9dfd-57051070934c"/>
-  <p>asdf</p>
- </div>
+
  <div  align="center">
   <img width="30%" alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/243ff241-64ab-4885-ba9e-885e4c179fd3"/>
   <p>asdf</p>
  </div>
 </div>
 
-<table width="100%">
- <td align="center">
-  <img alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/243ff241-64ab-4885-ba9e-885e4c179fd3"/>
-  <p>asdf</p>
- </td>
- <td align="center">
-  <img alt="image" src="https://github.com/jshim0978/color_poisoning/assets/43781129/243ff241-64ab-4885-ba9e-885e4c179fd3"/>
-  <p>asdf</p>
- </td>
-</table>
+
 
 
 The classes are completely mutually exclusive. There is no overlap between automobiles and trucks. "Automobile" includes sedans, SUVs, things of that sort. "Truck" includes only big trucks. Neither includes pickup trucks.
