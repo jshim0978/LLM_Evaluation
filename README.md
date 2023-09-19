@@ -34,7 +34,14 @@ Here are the classes in the dataset, as well as 10 random images from each:
  </div>
 </div>
 
-
+<table>
+  <tr>
+    <td valign="top">
+  <img width="386" alt="image" src="https://github.com/jshim0978/LLM_Evaluation/assets/43781129/9bdd3272-2178-4bef-a612-4645e40cc5bb"> </td>
+    <td valign="top">
+  <img width="386" alt="image" src="https://github.com/jshim0978/LLM_Evaluation/assets/43781129/9bdd3272-2178-4bef-a612-4645e40cc5bb"> </td>
+  </tr>
+</table>
 
 The classes are completely mutually exclusive. There is no overlap between automobiles and trucks. "Automobile" includes sedans, SUVs, things of that sort. "Truck" includes only big trucks. Neither includes pickup trucks.
 
